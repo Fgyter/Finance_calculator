@@ -10,6 +10,8 @@ gem 'pg'
 gem 'react-rails'
 gem 'bootstrap'
 gem 'jquery-rails'
+gem 'coffee-rails', '~> 4.2'
+gem 'slim'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
