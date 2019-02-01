@@ -8,6 +8,8 @@ gem 'rails', '~> 5.2.2'
 
 gem 'pg'
 gem 'react-rails'
+gem 'bootstrap'
+gem 'jquery-rails'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
