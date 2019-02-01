@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  payments: MyString
+  income: MyString
+  charts: MyString
+  settings: MyString
+
+two:
+  payments: MyString
+  income: MyString
+  charts: MyString
+  settings: MyString
